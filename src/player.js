@@ -39,6 +39,14 @@ Player.prototype.update = function(time) {
       }
       break;
     // TODO: Implement your player's update by state
+    case "up":
+      break;
+    case "down":
+      break;
+    case "left":
+      break;
+    case "right":
+      break;
   }
 }
 
